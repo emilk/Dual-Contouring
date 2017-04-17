@@ -14,6 +14,7 @@ This originated from a small weekend project, so don't expect too much!
 ## License
 This software is in the public domain. Where that dedication is not recognized, you are granted a perpetual, irrevocable license to copy and modify this file as you see fit.
 
+The license for catch.hpp is separate, as it is not written by me.
 
 # Program
 The program generates a distance field containing a cylinder, a box and a spherical hole in these. It then proceeds to generate a triangle mesh for this, outputting it to a file 'mesh.obj'.
