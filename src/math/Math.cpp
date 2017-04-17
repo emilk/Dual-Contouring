@@ -3,8 +3,6 @@
 //  EmiLib 3.0
 //
 //  Created by emilk on 2012-10-15.
-//  Copyright (c) 2012 Emil Ernerfeldt. All rights reserved.
-//
 
 #include "Math.hpp"
 #include <cassert>

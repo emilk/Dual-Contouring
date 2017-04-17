@@ -3,8 +3,6 @@
 //  EmiLib 3.0
 //
 //  Created by emilk on 2012-11-03.
-//  Copyright (c) 2012 Emil Ernerfeldt. All rights reserved.
-//
 
 #ifndef Math_Int_hpp
 #define Math_Int_hpp

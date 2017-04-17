@@ -8,6 +8,12 @@ Emil Ernerfeldt, June 2013
 # What?
 This is a C++ implementation of Dual Contouring, as outlined in http://www.frankpetterson.com/publications/dualcontour/dualcontour.pdf
 
+This originated from a small weekend project, so don't expect too much!
+
+
+## License
+This software is in the public domain. Where that dedication is not recognized, you are granted a perpetual, irrevocable license to copy and modify this file as you see fit.
+
 
 # Program
 The program generates a distance field containing a cylinder, a box and a spherical hole in these. It then proceeds to generate a triangle mesh for this, outputting it to a file 'mesh.obj'.

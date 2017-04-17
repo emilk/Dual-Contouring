@@ -2,8 +2,6 @@
 //  EmiLib 4
 //
 //  Created by Emil Ernerfeldt on 2012-05-27.
-//  Copyright (c) 2012 Emil Ernerfeldt AB. All rights reserved.
-//
 
 #ifndef Math_Vec2_hpp
 #define Math_Vec2_hpp
