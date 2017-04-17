@@ -17,6 +17,7 @@ Settings can be found in "settings.hpp"
 
 # Building
 
+    > mkdir build
     > cd build
     > cmake .. && make
     > ./dc
@@ -24,6 +25,7 @@ Settings can be found in "settings.hpp"
 
 or:
 
+    > mkdir build
     > cd build
     > cmake -G Xcode ..
     > open DC.xcodeproj/
