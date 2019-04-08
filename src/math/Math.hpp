@@ -7,6 +7,7 @@
 #ifndef EmiLib_Math_hpp
 #define EmiLib_Math_hpp
 
+#include <cstdint>
 #include <cmath>
 #include <limits>
 #include <algorithm>
