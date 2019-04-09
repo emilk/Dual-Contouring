@@ -1,6 +1,7 @@
 #ifndef UTIL_ARRAY_3D_HPP
 #define UTIL_ARRAY_3D_HPP
 
+#include <memory>
 #include <math/Vec3.hpp>
 #include <algorithm> // fill_n
 
